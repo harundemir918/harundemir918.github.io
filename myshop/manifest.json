@@ -1,11 +1,11 @@
 {
-    "name": "dietitian_app",
-    "short_name": "dietitian_app",
+    "name": "shop_app",
+    "short_name": "shop_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
